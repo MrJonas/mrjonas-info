@@ -29,7 +29,7 @@ export const texts = {
                 name: 'mrjonas.info (2019)',
                 link_url: 'https://mrjonas.info',
                 description: 'Personal porfolio page made with react',
-                github_url: ''
+                github_url: 'https://github.com/MrJonas/mrjonas-info'
             },
             {
                 name: 'dviraciumarsrutai.lt (2017)',
