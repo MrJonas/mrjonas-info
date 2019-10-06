@@ -1,22 +1,27 @@
-.App {
-  text-align: center;
+html, body, #root {
+  background-color: #303133;
 }
 
-.App-logo {
-  height: 40vmin;
+.app {
+  background-color: #303133;
+  color: white;
+}
+.content {
+  max-width: 600px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.badge {
+  margin: 2px;
+}
+
+.center {
+  text-align: center; 
+}
+
+a, a:link, a:visited, a:hover, a:active {
   color: white;
 }
 
-.App-link {
-  color: #09d3ac;
+.badge.badge-info.badge-pill {
+  background-color: #3C7EBB;
 }
