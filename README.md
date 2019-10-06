@@ -1,4 +1,4 @@
-# [mrjonas.in](https://mrjonas./)
+# [mrjonas.info](https://mrjonas.info/)
 
 > A static personal website 
 
