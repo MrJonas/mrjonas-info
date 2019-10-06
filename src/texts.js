@@ -35,7 +35,7 @@ export const texts = {
                 name: 'dviraciumarsrutai.lt (2017)',
                 link_url: 'https://dviraciumarsrutai.lt',
                 description: 'Blog about turist bike routes in Lithuania',
-                github_url: ''
+                github_url: 'https://github.com/MrJonas/ng-bike-routes'
             },
         ]
     }
