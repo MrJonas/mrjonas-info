@@ -19,7 +19,8 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "aws s3 sync build/ s3://mrjonas-info"
+    "deploy": "aws s3 sync build/ s3://mrjonas-info --delete",
+    "postdeploy": "aws cloudfront create-invalidation --distribution-id E1ZS2059XP1SW5 --paths '/*' && aws cloudfront create-invalidation --distribution-id E79PMZFDYE430 --paths '/*'"
   },
   "eslintConfig": {
     "extends": "react-app"
