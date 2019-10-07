@@ -4,7 +4,7 @@ import { MainInfo, Skills, Projects, Codewars } from './components';
 import { Container, Row, Col } from 'reactstrap';
 
 const App = () => (
-  <div className="app m-5">
+  <div className="app my-5">
     <Container>
       <Row>
         <Col lg={{ size: 8, offset: 2 }}>

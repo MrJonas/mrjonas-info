@@ -8,7 +8,7 @@ const { projects } = texts;
 
 export const ProjectCard = ({ name, link_url, description, github_url }) => (
     <Col sm="6">
-        <Card body inverse style={{ backgroundColor: '#424242', borderColor: '#424242' }}>
+        <Card body inverse className="mt-1" style={{ backgroundColor: '#424242', borderColor: '#424242' }}>
             <CardTitle>
                 {!!link_url ? <a href={link_url} target="_blank" rel="noopener noreferrer">{name}</a> : name}
             </CardTitle>

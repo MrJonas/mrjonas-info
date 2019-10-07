@@ -19,6 +19,7 @@ export const texts = {
         title: 'Codewars',
         description: 'I like solving katas on codewars. Here is my rating:',
         imageUrl: 'https://www.codewars.com/users/mrjonas/badges/large',
+        imageUrlMicro: 'https://www.codewars.com/users/mrjonas/badges/micro',
         imageAlt: 'Codewars rating'
     },
     projects: {
