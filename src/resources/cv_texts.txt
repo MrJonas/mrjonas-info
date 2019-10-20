@@ -1,0 +1,54 @@
+CV. CANVA.
+
+JONAS ANTANAITIS
+Software Engineer
+
+
+Contact
++370 63802686
+jonas.l.antanaitis@gmail.com
+www.mrjonas.info
+Vilnius, Lithuania
+
+Profile
+
+As Software engineer I had an opportunity to work with various technologies in front-end, back-end and mobile app development. Although I have experience working with various technologies, I enjoy the most working with Javascript.
+
+Experience
+Software Engineer
+Danske Bank  | MARCH 2018 - PRESENT
+
+- FE and BE feature implementation and bug fixing.
+- Mobile app development using React Native.
+- Reviewing code created by other team members.
+- Working in Scrum team.
+
+Software Engineer
+STATE ENTERPRISE REGITRA | JULY 2015 - MARCH 2018
+
+- FE and BE feature implementation and bug fixing.
+- Investigation and resolution of issues reported by internal and external users.
+
+
+Education
+
+MASTER OF COMPUTER MODELLING
+VILNIUS UNIVERSITY |  Faculty of Mathematics and Informatics | 2014 - 2016
+
+Bachelor of telecommunications physics and electronics
+VILNIUS UNIVERSITY |  physics faculty | 2010 - 2014
+
+Skills
+
+Javascript
+React
+React-Native
+Node.JS
+Redux
+CSS
+HTML
+C#
+
+Interests
+
+Travel, Cycling, Board games
