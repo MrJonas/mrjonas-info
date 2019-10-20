@@ -1,7 +1,7 @@
 export const texts = {
     main: {
         title: 'Jonas Antanaitis',
-        subtitle: 'Software developer based in Vilnius, Lithuania',
+        subtitle: 'Software Engineer based in Vilnius, Lithuania',
         linkedin_link: 'https://www.linkedin.com/in/mrjonas/',
         resume: {
             button_text: 'Download CV',
@@ -10,7 +10,7 @@ export const texts = {
     },
     skills: {
         title: 'Skills',
-        paragraph_1: 'As Software developer I had an opportunity to work with various technologies in front-end, back-end and mobile app development. I enjoyed the most working with Javascript stack:',
+        paragraph_1: 'As Software engineer I had an opportunity to work with various technologies in front-end, back-end and mobile app development. I enjoyed the most working with Javascript stack:',
         main: ['Javascript', 'React', 'Redux', 'React Native', 'NodeJS', 'html', 'css'],
         paragraph_2: 'Also I have experience working with:',
         other: ['Angular', 'Android', 'C#', 'Java', 'SQL', 'Oracle PL/SQL'],
