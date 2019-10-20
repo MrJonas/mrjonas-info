@@ -5,7 +5,7 @@ export const texts = {
         linkedin_link: 'https://www.linkedin.com/in/mrjonas/',
         resume: {
             button_text: 'Download CV',
-            button_link: '/CV_JONAS_ANTANAITIS.pdf'
+            button_link: '/CV_JONAS_A.pdf'
         },
     },
     skills: {
