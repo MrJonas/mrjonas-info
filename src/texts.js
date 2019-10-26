@@ -27,6 +27,12 @@ export const texts = {
         button: 'Go to Github',
         items: [
             {
+                name: 'Fox (2019)',
+                link_url: 'https://codepen.io/mr-jonas/pen/NWWjWmB',
+                description: 'Code pen snipet made from fox design found on dribbble.com',
+                github_url: 'https://github.com/MrJonas/fox'
+            },
+            {
                 name: 'mrjonas.info (2019)',
                 link_url: 'https://mrjonas.info',
                 description: 'Personal porfolio page made with react',
