@@ -30,7 +30,7 @@ export const texts = {
                 name: 'Fox (2019)',
                 link_url: 'https://codepen.io/mr-jonas/pen/NWWjWmB',
                 description: 'Code pen snipet made from fox design found on dribbble.com',
-                github_url: 'https://github.com/MrJonas/fox'
+                github_url: 'https://github.com/MrJonas/fox-animation'
             },
             {
                 name: 'mrjonas.info (2019)',
