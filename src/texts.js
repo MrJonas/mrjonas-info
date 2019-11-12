@@ -27,6 +27,12 @@ export const texts = {
         button: 'Go to Github',
         items: [
             {
+                name: 'Tic Tac Toe (2019)',
+                link_url: 'https://github.com/MrJonas/tic-tac-toe-fe/blob/master/README.md',
+                description: 'Game developed using Typescript, Redux-Saga, Docker, Node.JS',
+                github_url: 'https://github.com/MrJonas/tic-tac-toe-fe/blob/master/README.md'
+            },
+            {
                 name: 'Fox (2019)',
                 link_url: 'https://codepen.io/mr-jonas/pen/NWWjWmB',
                 description: 'Code pen snipet made from fox design found on dribbble.com',
