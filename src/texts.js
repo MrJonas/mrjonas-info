@@ -11,7 +11,7 @@ export const texts = {
     skills: {
         title: 'Skills',
         paragraph_1: 'As Software engineer I had an opportunity to work with various technologies in front-end, back-end and mobile app development. I enjoyed the most working with Javascript stack:',
-        main: ['Javascript', 'React', 'Redux', 'React Native', 'NodeJS', 'html', 'css'],
+        main: ['Javascript', 'React', 'Redux', 'Python', 'React Native', 'NodeJS'],
         paragraph_2: 'Also I have experience working with:',
         other: ['Angular', 'Android', 'C#', 'Java', 'SQL', 'Oracle PL/SQL'],
     },
@@ -26,6 +26,12 @@ export const texts = {
         title: 'Projects',
         button: 'Go to Github',
         items: [
+            {
+                name: 'Classic game of "Snake" (2021)',
+                link_url: 'https://github.com/MrJonas/snake-react-webassembly',
+                description: '"Snake" game developed using AssemblyScript',
+                github_url: 'https://github.com/MrJonas/snake-react-webassembly'
+            },
             {
                 name: 'Tic Tac Toe (2019)',
                 link_url: 'https://github.com/MrJonas/tic-tac-toe-fe/blob/master/README.md',
